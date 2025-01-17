@@ -1,2 +1,2 @@
-# test
-just for testing 
+# Test
+Just for testing, and exploring.
